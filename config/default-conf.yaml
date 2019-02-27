@@ -1,0 +1,11 @@
+admin_name: 'admin'
+admin_password: 'admin'
+domain: 'api.doamin.com'
+static_path: 'C:/path/to/folder'
+environment: 'test'
+cert_dir: 'secret-dir'
+database_url: 'postgres://user:password@localhost:5432/db?sslmode=disable'
+default_salt: 'abcfefg123'
+max_image_size_mb: 10
+cors_domains: ['http://localhost:4200']
+domain: 'mydomain.com'

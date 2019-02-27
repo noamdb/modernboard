@@ -1,0 +1,6 @@
+.vscode
+.idea
+debug
+modernboard.exe
+modernboard
+go.sum
