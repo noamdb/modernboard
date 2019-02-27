@@ -1,4 +1,4 @@
-# Modernboard - Anonymus Image Board with Modern Styling 
+# Modernboard - Anonymous Image Board with Modern Styling 
 Modernboard is an opensource image board built with modern technologies.
 Create your own image board today!
 
