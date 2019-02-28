@@ -1,6 +1,8 @@
 # Modernboard - Anonymus Image Board with Modern Styling 
-Modernboard is an opensource image board built with modern technologies.
-Create your own image board today!
+Modernboard is an opensource image board built with modern technologies.  
+You can find a running example [here](https://bligvul.com)   
+Create your own image board community today!  
+
 
 # Front-end
 The Angular front end for the image board can be found [here](https://github.com/noamdb/modernboard-ui) 
